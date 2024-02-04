@@ -6,7 +6,8 @@
 - Quick Sort
 - Merge Sort
 
-[Check out the website here](https://kaushaldeokar.github.io/Sorting-Visualizer//)
+[Check out the website here](https://Mister-Mec.github.io/sorting_illustrator
+//)
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
